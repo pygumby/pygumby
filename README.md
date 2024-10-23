@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello, friend.
 
-<!--
-**pygumby/pygumby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🌐 Domains
+- [pygumby.com](https://pygumby.com)
+- [pygumby.dev](https://pygumby.dev)
 
-Here are some ideas to get you started:
+#### 💬 Socials
+- [X](https://x.com/pygumby)
+- [Discord](https://discordapp.com/users/pygumby)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🐍 Programming
+- [GitHub](https://github.com/pygumby)
+- [PyPI](https://pypi.org/user/pygumby)
+- [StackOverflow](https://stackoverflow.com/users/1981705/pygumby)
