@@ -1,7 +1,7 @@
 ## Hello, friend.
 
-🌐 **Domains** – [pygumby.com](https://pygumby.com) | [pygumby.org](https://pygumby.org) | [pygumby.dev](https://pygumby.dev)
+💬 **Communication** – [Discord](https://discordapp.com/users/pygumby) | [Bluesky](https://bsky.app/profile/pygumby.bsky.social) | [X (Twitter)](https://x.com/pygumby) 
 
-💬 **Socials** – [X](https://x.com/pygumby) | [Discord](https://discordapp.com/users/pygumby) | [StackOverflow](https://stackoverflow.com/users/1981705/pygumby)
+🧠 **Knowledge** – [StackOverflow](https://stackoverflow.com/users/1981705/pygumby) | [Hyperskill](https://hyperskill.org/my-learning/618694092)
 
-🤖 **Code** – [GitHub](https://github.com/pygumby) | [GitLab](https://gitlab.com/pygumby) | [PyPI](https://pypi.org/user/pygumby)
+🤖 **Code** – [GitHub](https://github.com/pygumby) | [PyPI](https://pypi.org/user/pygumby)
